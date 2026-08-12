@@ -1,2 +1,0 @@
-*.wbpz filter=lfs diff=lfs merge=lfs -text
-WTurbine_Blade_CFD_SS.wbpz filter=lfs diff=lfs merge=lfs -text
